@@ -1,0 +1,25 @@
+* {
+	background-color: #02D7F3;
+}
+
+body {
+	color: #081BE9;
+	background-color: dark green;
+}
+
+table {
+	border: #C41A0B 3px solid;
+}
+
+h2 {
+	font-color: green;
+	text-align: center;
+}
+
+th {
+	border: #000000 1px solid;
+}
+
+td {
+	border: #000000 1px solid;
+}
